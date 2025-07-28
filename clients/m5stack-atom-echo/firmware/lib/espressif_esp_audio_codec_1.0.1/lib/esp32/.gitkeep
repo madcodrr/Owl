@@ -1,0 +1,2 @@
+# This directory should contain libesp_audio_codec.a
+# Copy from: ../../../xiao-esp32s3-sense/firmware/lib/espressif_esp_audio_codec_1.0.1/lib/esp32/libesp_audio_codec.a
